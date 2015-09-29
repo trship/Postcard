@@ -162,6 +162,7 @@
 		048DDA721A4C659500837FB0 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0610;
 				ORGANIZATIONNAME = com.mac;
 				TargetAttributes = {
